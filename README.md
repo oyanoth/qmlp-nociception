@@ -174,7 +174,8 @@ If you use this code in your research, please cite:
   journal={IEEE Transactions on Artificial Intelligence},
   year={2026},
   doi={10.1109/TAI.2026.3660942}
-}```
+}
+```
 
 ## License
 
