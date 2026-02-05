@@ -168,13 +168,13 @@ This configures:
 If you use this code in your research, please cite:
 
 ```bibtex
-@article{To be modifed,
-  title={Quantum Multi-Layer Perceptron for Nociception Monitoring},
-  author={To be modifed},
-  journal={To be modifed},
-  year={To be modifed}
-}
-```
+@article{abdeldeenetal2026,
+  title={A Quantum Multilayer Perceptron for Intraoperative Nociception Prediction},
+  author={Abdel Deen, Omar M. T. and Fan, Shou-Zen and Doctor, Faiyaz and Shieh, Jiann-Shing},
+  journal={IEEE Transactions on Artificial Intelligence},
+  year={2026},
+  doi={10.1109/TAI.2026.3660942}
+}```
 
 ## License
 
